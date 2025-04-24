@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahsulotlar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .title {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .product-container {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .product-card {
+            background: white;
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 200px;
+            text-align: center;
+            transition: 0.3s;
+        }
+
+        .product-card:hover {
+            transform: scale(1.05);
+        }
+
+        .product-card img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .badge {
+            background: yellow;
+            color: black;
+            padding: 5px 10px;
+            font-size: 12px;
+            font-weight: bold;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 5px;
+        }
+
+        .price {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h2 class="title">Mashhur</h2>
+    <div class="product-container">
+        <div class="product-card">
+            <img src="shampoo.png" alt="Shampun">
+            <span class="badge">Katta savdo</span>
+            <h3>Garnier Fructis SOS</h3>
+            <p class="price">29 990 so‘m</p>
+        </div>
+        
+        <div class="product-card">
+            <img src="pasta.png" alt="Makaron">
+            <span class="badge">Katta savdo</span>
+            <h3>Makfa Makaron, 3 kg</h3>
+            <p class="price">49 990 so‘m</p>
+        </div>
+        
+        <div class="product-card">
+            <img src="watch.png" alt="Soat">
+            <span class="badge">Katta savdo</span>
+            <h3>Soat Al Harameen HA 6506</h3>
+            <p class="price">249 000 so‘m</p>
+        </div>
+        
+        <div class="product-card">
+            <img src="ironing_board.png" alt="Dazmol taxtasi">
+            <span class="badge">Katta savdo</span>
+            <h3>Dazmol taxtasi Perilla Mini</h3>
+            <p class="price">79 990 so‘m</p>
+        </div>
+        
+        <div class="product-card">
+            <img src="paper.png" alt="Qog‘oz">
+            <span class="badge">Katta savdo</span>
+            <h3>Svetocopy ECO, A4</h3>
+            <p class="price">35 990 so‘m</p>
+        </div>
+    </div>
+</body>
+</html>

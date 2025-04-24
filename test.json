@@ -1,0 +1,206 @@
+{
+    "reading_test":[
+        {
+            "id": "1",
+            "title": "Reading Test 1",
+            "tasks": [
+                {
+                    "id": "1",
+                    "title": "Reading Test 1",
+                    "pdf_for_task": "python_lecture.pdf",
+                    "img": "python_lecture.png",
+                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt",
+                    "question": [
+                        {
+                            "id": "1",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "2",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "3",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "4",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "5",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "6",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "7",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "8",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "9",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "10",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },{
+                            "id": "11",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "12",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "13",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Reading Test 2",
+                    "pdf_for_task": "python_lecture.pdf",
+                    "img": "python_lecture.png",
+                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt",
+                    "question": [
+                        {
+                            "id": "1",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "2",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "3",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "4",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "5",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "6",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "7",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "8",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "9",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "10",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },{
+                            "id": "11",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "12",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "13",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                        },
+                        {
+                            "id": "3",
+                            "title": "Reading Test 3",
+                            "pdf_for_task": "python_lecture.pdf",
+                            "img": "python_lecture.png",
+                            "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt",
+                            "question": [
+                                {
+                                    "id": "1",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "2",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "3",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "4",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "5",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "6",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "7",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "8",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "9",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "10",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },{
+                                    "id": "11",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "12",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "13",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                },
+                                {
+                                    "id": "13",
+                                    "question_text": "Tabiat va inson: Kelajagimizni qanday saqlab qolish mumkin? Tabiat insoniya rjhbhrbgjdsf jfdhbg jdhfbgt"
+                                }
+                            ]
+                        }
+                    ]
+                }    
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+// user
+// question
+// answer
+// correct_answer
+
+

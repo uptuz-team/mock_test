@@ -1,0 +1,18 @@
+# Text files with LF line endings
+*.txt text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+
+# Binary files (images, videos, etc.)
+*.jpg binary
+*.png binary
+*.mp4 binary
+
+# Merge strategies
+*.conf merge=union
+
+# Encoding for HTML, CSS, JS
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
